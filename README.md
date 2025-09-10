@@ -1,4 +1,4 @@
-Gemini Agent Project - Public Export
+restaurant-agent
 
 This folder contains a trimmed, safe export of the project suitable to create a new public repository.
 
